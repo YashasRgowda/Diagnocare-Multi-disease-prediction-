@@ -101,6 +101,24 @@ PredictiX/
 
 ```
 
+## Screenshots
+![1](https://github.com/user-attachments/assets/73eaf00f-d14b-4446-995e-ad7015fd3f33)
+
+![2](https://github.com/user-attachments/assets/16bf81dd-9940-4105-b726-268b8d3e79b8)
+
+![3](https://github.com/user-attachments/assets/0ec9427e-df73-42e4-a356-ad39bd8fb218)
+
+![4](https://github.com/user-attachments/assets/a9c98e5b-d25e-4564-9fe2-817d4e227e1c)
+
+![5](https://github.com/user-attachments/assets/3a9146be-b51b-4f06-b11d-53cd1e775515)
+
+![6](https://github.com/user-attachments/assets/a3208f1b-d18a-4ea5-ba2c-7c7a22446111)
+
+![7](https://github.com/user-attachments/assets/cfc29893-d596-4a7a-9f27-a23b5842f348)
+
+![8](https://github.com/user-attachments/assets/e9871992-b959-4fee-a3d2-03d5913a4709)
+
+
 ## Future Enhancements
 
 - **OCR Integration:** Plan to replace regex with Optical Character Recognition (OCR) for extracting prescription data more efficiently.
